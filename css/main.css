@@ -5,3 +5,31 @@ video {
   width: 100%;
   height: auto;
 }
+
+body {
+  background-color: #cfa75f;
+}
+html {
+  max-width: 70ch;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: LingWai TC;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: HanziPen SC;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: HanziPen SC;
+  font-size: 40px;
+}
+
+p {
+  font-family: HanziPen SC;
+  font-size: 25px;
+}
